@@ -11,6 +11,3 @@ tools = [
         description="Useful for when you need to know a stock's price on the internet",
     ),
 ]
-
-def get_stock_price(command):
-    x = 10
