@@ -3,7 +3,7 @@ from langchain.agents import AgentType, initialize_agent
 from langchain.chat_models import ChatOpenAI
 import os
 
-os.environ["OPENAI_API_KEY"] = "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"
+os.environ["OPENAI_API_KEY"] = "" # Your API key here.
 
 llm = ChatOpenAI(temperature=0.2)
 
