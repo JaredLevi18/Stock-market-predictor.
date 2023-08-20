@@ -13,5 +13,3 @@ agent = initialize_agent(
 
 command = input("Enter the name of the company you'd like to know its stock price: ")
 agent.run(command)
-
-
